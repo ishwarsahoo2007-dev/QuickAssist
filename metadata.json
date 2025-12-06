@@ -1,0 +1,7 @@
+{
+  "name": "Copy of  QuickAssist 2.0",
+  "description": "A comprehensive travel assistance platform connecting travelers with mechanics during breakdowns, festivals, and emergencies.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
